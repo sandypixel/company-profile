@@ -1,0 +1,57 @@
+.parallax-container {
+    height: 20%;
+}
+
+.parallax {
+    opacity: 0.5 !important;
+}
+
+nav .brand-logo {
+    padding-left: 20px;
+}
+
+.service {
+    cursor: pointer;
+}
+
+.clients img {
+    max-width: 150px;
+}
+
+#client .col {
+    margin-top: 20px;
+}
+
+section {
+    padding: 20px 0;
+}
+
+footer {
+    padding: 20px 0;
+}
+
+footer .footer i {
+    padding: 10px;
+    color: white;
+    font-size: 23px;
+}
+
+footer .footer i:hover {
+    color: black;
+}
+
+
+.contact .card-panel {
+    cursor: pointer;
+}
+
+.contact .card-panel  .warni:hover {
+    color:#1de9b6;
+}
+
+section .card .fab {
+    color: rgb(48, 47, 47);
+    padding: 7px;
+    font-size: 24px;
+    margin-top: 10px;
+}
